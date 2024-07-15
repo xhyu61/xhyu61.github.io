@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuhao Xue/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuhao Xue"
-description              : &description "First-year master student in Tongji University"
+description              : &description "A first-year master student in Tongji University"
 url                      : https://xhyu61.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xhyu61/xhyu61.github.io"
