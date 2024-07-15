@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate student from [School of CSTC](https://cstc.hrbeu.edu.cn/), [Harbin Engineering University](https://www.hrbeu.edu.cn/). My research interest includes computer vision, person reid, diffusion model.
+I'm a first-year master student in [Visual and Intelligent Learning Lab](https://vill.tongji.edu.cn/) of School of Electronic and Information Engineering, Tongji University fortunately supervised by [Prof.Cairong Zhao](https://vill.tongji.edu.cn/).
 
-I'm very fortunate to have the opportunity to be advised by the brilliant and kind researcher Prof. [Cairong Zhao](https://vill-lab.github.io/) in Tongji University.
+Prior to this, I received my Bachelor degree from School of CSTC, Harbin Engineering University.
+
+My research interest includes computer vision, person reid, diffusion model, distillation.
